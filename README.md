@@ -1,6 +1,6 @@
 # hello-world
 Following steps to be successful in github
 
-Name: Kelvin Tezinde
-Age: 19
-Co-op: Q4 Websystems
+Name: Ryan Leung
+Age: 21
+Co-op: All of them
